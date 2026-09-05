@@ -1,1 +1,1 @@
-This project was one of the weekly assignments i receive in school for learning how to code. I needed to create a program that prints out the calender of a specific month, given the month and the year without using the calender module.
+This project was one of the weekly assignments I receive in school for learning how to code. I needed to create a program that prints out the calender of a specific month, given the month and the year without using the calender module.
